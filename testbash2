@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Info about OS:"
+uname
+uname -r
+
+
